@@ -95,4 +95,3 @@ This project **simulated an A/B test** and applied statistical hypothesis testin
 - How statistical inference techniques **validate business decisions**.
 - The importance of **p-values and hypothesis testing** in experimental design.
 
-Would you like a more detailed breakdown of the code implementation, including visualizations like **histograms** or a **confidence interval analysis**? 🚀
